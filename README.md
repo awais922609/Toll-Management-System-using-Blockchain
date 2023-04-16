@@ -1,4 +1,4 @@
-#Toll Plaza Management System on Blockchain
+###Toll Plaza Management System on Blockchain
 This is a blockchain-based toll plaza management system developed using Golang and React. The system enables seamless and secure payment of toll fees using cryptocurrency. The project aims to improve the efficiency of toll collection and reduce fraud and corruption in the toll plaza management process.
 
 #Features
