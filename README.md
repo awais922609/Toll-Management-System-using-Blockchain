@@ -1,20 +1,80 @@
-# Toll Plaza Management System on Blockchain #
-This is a blockchain-based toll plaza management system developed using Golang and React. The system enables seamless and secure payment of toll fees using cryptocurrency. The project aims to improve the efficiency of toll collection and reduce fraud and corruption in the toll plaza management process.
+# Toll Management System Using Blockchain
+![Description of the image](https://github.com/awais922609/Toll-Management-System-using-Blockchain/blob/main/3.jpg)
 
-# Features
-Blockchain-based system for secure and transparent transactions
-Golang smart contracts for seamless toll fee payment
-React frontend for easy user interaction
-Fast and reliable transaction processing
 
-# Requirements
-Golang
-React
-Ganache (for local development)
+## Overview
 
-# Getting Started
-Clone the repository: git clone https://github.com/<your-username>/toll-plaza-blockchain.git
-Install dependencies: cd toll-plaza-blockchain && npm install
-Start the development server: npm start
-  
-Contributions are always welcome! Please open an issue or submit a pull request if you find any bugs or have suggestions for improvements.
+This repository presents a blockchain-based Toll Management System aimed at enhancing transparency, efficiency, and security in toll collection processes. By leveraging blockchain technology, this system eliminates the need for intermediaries, ensuring that transactions are immutable, traceable, and efficient.
+
+## Features
+
+Decentralized Transactions: Secure toll payments using blockchain smart contracts.
+
+Immutable Ledger: Transparent record-keeping for all transactions.
+
+Real-Time Verification: Instant validation of toll payments.
+
+Vehicle Tracking: Blockchain-integrated vehicle tracking for toll management.
+
+##  Requirements
+
+Blockchain Framework: Ethereum, Hyperledger, or any blockchain network.
+
+## Development Environment:
+
+Node.js
+
+Solidity
+
+Web3.js
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/awais922609/Toll-Management-System-using-Blockchain.git
+cd Toll-Management-System-using-Blockchain
+
+## Install dependencies:
+
+1. npm install
+
+Deploy smart contracts:
+
+2. truffle migrate --network development
+
+Run the application:
+
+5. npm start
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+Fork the repository.
+
+Create a new branch:
+
+git checkout -b feature-name
+
+Commit your changes:
+
+git commit -m "Add new feature"
+
+Push to your branch and create a Pull Request.
+
+## Disclaimer
+
+This project is for educational purposes only. Ensure compliance with local laws and regulations before deploying in a production environment.
+
+## License
+
+This repository is licensed under the MIT License.
+
+## Contact
+
+For questions or suggestions, feel free to reach out:
+
+GitHub: awais922609
+
+Email: awaissajid
