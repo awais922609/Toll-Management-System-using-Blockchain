@@ -33,6 +33,7 @@ Web3.js
 Clone the repository:
 
 git clone https://github.com/awais922609/Toll-Management-System-using-Blockchain.git
+
 cd Toll-Management-System-using-Blockchain
 
 ## Install dependencies:
@@ -77,4 +78,4 @@ For questions or suggestions, feel free to reach out:
 
 GitHub: awais922609
 
-Email: awaissajid
+Email: awaissajid@cyberdude.com
